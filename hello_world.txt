@@ -1,1 +1,2 @@
 Hello world, I hope to become a great developer someday!
+Let me make a quick change to practice some git commands :)
